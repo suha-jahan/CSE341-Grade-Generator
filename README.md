@@ -1,3 +1,5 @@
+#CSE-341-Grade-Generator
+
 This project is a simple grade calculation system developed in Assembly Language. It takes input scores for different components of a course—such as quizzes, midterms, finals, and assignments—and calculates the final numerical score and corresponding letter grade based on a predefined grading scale.
 
 Key Features:
